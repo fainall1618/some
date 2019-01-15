@@ -15,7 +15,7 @@ type Network struct {
 	// ObjectMeta contains the metadata for the particular object, including
 	// things like...
 	//  - name
-	//  - namespace
+	//  - namespacels
 	//  - self link
 	//  - labels
 	//  - ... etc ...
